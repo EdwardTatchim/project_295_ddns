@@ -1,0 +1,8 @@
+Unacceptable log file E:\Crypto_project\PHI\explorer\phi.tar\phi\phi\explorer\data\database\log.0000000003: unsupported log version 19
+Invalid log file: log.0000000003: Invalid argument
+PANIC: Invalid argument
+process-private: unable to find environment
+Unacceptable log file E:\Crypto_project\PHI\explorer\phi.tar\phi\phi\explorer\data_index\database\log.0000000001: unsupported log version 19
+Invalid log file: log.0000000001: Invalid argument
+PANIC: Invalid argument
+process-private: unable to find environment
